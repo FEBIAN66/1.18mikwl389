@@ -110,7 +110,7 @@ const dreams = [
 app.use(express.static("public"));
 
 app.get("/", (request, response) => {
-  response.sendFile(__dirname + "/index.html");
+  response.sendFile(__dirname + "./index.html");
 });
 
 app.get("/dreams", (request, response) => {
