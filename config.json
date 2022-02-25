@@ -1,7 +1,7 @@
 {
-	"ip":"Jojolandtu.aternos.me",
-	"port": "37752",
-	"name": "bot1234vanev",
+	"ip":"febian66.aternos.me",
+	"port": "16869",
+	"name": "MikelBot",
 	"auto-night-skip":"false",
 	"login-enabled":"false",
 	"register-cmd":"/register pass123 ",
