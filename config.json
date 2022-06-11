@@ -1,7 +1,7 @@
 {
 	"ip":"playkelsmp.aternos.me",
 	"port": "16869",
-	"name": "MikelBot",
+	"name": "MikelBot2",
 	"auto-night-skip":"false",
 	"login-enabled":"false",
 	"register-cmd":"/register mklbt",
